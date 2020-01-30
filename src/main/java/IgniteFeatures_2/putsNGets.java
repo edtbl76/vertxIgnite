@@ -1,4 +1,4 @@
-package IgniteFeatures_2.BinaryCacheExamples_1;
+package IgniteFeatures_2;
 
 import DemoUtils.DemoUtils;
 import DemoUtils.Models.Team;
