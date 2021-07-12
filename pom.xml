@@ -12,7 +12,7 @@
     <properties>
         <jdk.version>11</jdk.version>
         <vertx.version>4.0.0-milestone4</vertx.version>
-        <ignite.version>2.7.6</ignite.version>
+        <ignite.version>2.10.0</ignite.version>
         <logback.version>1.2.3</logback.version>
     </properties>
 
